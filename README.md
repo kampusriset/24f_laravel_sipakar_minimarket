@@ -9,9 +9,6 @@
 </p>
 
 ## Kelompok ABW
-
-Fitur AI yang dikembangkan pada sistem minimarket adalah Smart Inventory Notification, yaitu fitur yang membantu pengelola minimarket dalam mengontrol persediaan barang, memantau tanggal kedaluwarsa (expired date), serta memperkirakan kondisi stok barang.
-Sistem akan memberikan notifikasi otomatis apabila:
 - Shafa Nurul Farida (2413010658)
 - Panji Sabda Arroyan (2413010666)
 - Adila Regita Kusuma Ayu (2413010669)

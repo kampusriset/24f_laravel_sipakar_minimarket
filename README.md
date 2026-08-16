@@ -26,6 +26,7 @@ Dengan adanya fitur ini, pengelola minimarket dapat mengambil tindakan lebih cep
 ## Algoritma Yang di Gunakan
 
 Decision Tree Machine Learning
+
 Algoritma yang digunakan pada fitur ini adalah Decision Tree, yaitu metode Machine Learning yang bekerja dengan membuat keputusan berdasarkan beberapa kondisi atau aturan.
 Decision Tree dipilih karena sesuai untuk sistem minimarket yang membutuhkan keputusan sederhana seperti:
 - Restock

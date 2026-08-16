@@ -8,9 +8,16 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## Smartmini AI
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Fitur AI yang dikembangkan pada sistem minimarket adalah Smart Inventory Notification, yaitu fitur yang membantu pengelola minimarket dalam mengontrol persediaan barang, memantau tanggal kedaluwarsa (expired date), serta memperkirakan kondisi stok barang.
+Sistem akan memberikan notifikasi otomatis apabila:
+a.	Stok barang mulai menipis.
+b.	Produk mendekati tanggal expired.
+c.	Produk memiliki masa jual tercepat (terlaris).
+d.	Barang berpotensi mengalami penumpukan stok.
+Dengan adanya fitur ini, pengelola minimarket dapat mengambil tindakan lebih cepat seperti melakukan pemesanan ulang atau memberikan promo pada produk yang mendekati expired.
+
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).

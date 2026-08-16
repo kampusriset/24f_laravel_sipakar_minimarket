@@ -35,7 +35,7 @@ Decision Tree dipilih karena sesuai untuk sistem minimarket yang membutuhkan kep
 
 ### Diagram Sederhana
 <p align="center">
-  <img src="Dokumentasi/diagram sederhana.png" width="700">
+  <img src="dokumentasi/diagram sederhana.png" width="700">
 </p>
 
 - **[Vehikl](https://vehikl.com/)**

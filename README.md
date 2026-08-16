@@ -12,20 +12,11 @@
 
 Fitur AI yang dikembangkan pada sistem minimarket adalah Smart Inventory Notification, yaitu fitur yang membantu pengelola minimarket dalam mengontrol persediaan barang, memantau tanggal kedaluwarsa (expired date), serta memperkirakan kondisi stok barang.
 Sistem akan memberikan notifikasi otomatis apabila:
-a.	Stok barang mulai menipis.
-b.	Produk mendekati tanggal expired.
-c.	Produk memiliki masa jual tercepat (terlaris).
-d.	Barang berpotensi mengalami penumpukan stok.
+- Stok barang mulai menipis.
+- Stok barang mulai menipis.
+- Produk memiliki masa jual tercepat (terlaris).
+- Barang berpotensi mengalami penumpukan stok.
 Dengan adanya fitur ini, pengelola minimarket dapat mengambil tindakan lebih cepat seperti melakukan pemesanan ulang atau memberikan promo pada produk yang mendekati expired.
-
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
